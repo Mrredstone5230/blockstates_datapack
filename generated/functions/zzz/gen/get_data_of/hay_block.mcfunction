@@ -1,0 +1,5 @@
+execute if block ~ ~ ~ minecraft:hay_block[axis=x] run data merge storage blockstates:io {data:{Properties:{axis:"x"}}}
+execute if block ~ ~ ~ minecraft:hay_block[axis=y] run data merge storage blockstates:io {data:{Properties:{axis:"y"}}}
+execute if block ~ ~ ~ minecraft:hay_block[axis=z] run data merge storage blockstates:io {data:{Properties:{axis:"z"}}}
+data merge storage blockstates:io {data:{id:"minecraft:hay_block"}}
+data merge storage blockstates:io {data:{PropertyList:["axis",]}}

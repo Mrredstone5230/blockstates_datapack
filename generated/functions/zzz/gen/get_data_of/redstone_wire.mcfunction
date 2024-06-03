@@ -1,0 +1,30 @@
+execute if block ~ ~ ~ minecraft:redstone_wire[east=up] run data merge storage blockstates:io {data:{Properties:{east:"up"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[east=side] run data merge storage blockstates:io {data:{Properties:{east:"side"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[east=none] run data merge storage blockstates:io {data:{Properties:{east:"none"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[north=up] run data merge storage blockstates:io {data:{Properties:{north:"up"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[north=side] run data merge storage blockstates:io {data:{Properties:{north:"side"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[north=none] run data merge storage blockstates:io {data:{Properties:{north:"none"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=0] run data merge storage blockstates:io {data:{Properties:{power:"0"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=1] run data merge storage blockstates:io {data:{Properties:{power:"1"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=2] run data merge storage blockstates:io {data:{Properties:{power:"2"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=3] run data merge storage blockstates:io {data:{Properties:{power:"3"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=4] run data merge storage blockstates:io {data:{Properties:{power:"4"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=5] run data merge storage blockstates:io {data:{Properties:{power:"5"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=6] run data merge storage blockstates:io {data:{Properties:{power:"6"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=7] run data merge storage blockstates:io {data:{Properties:{power:"7"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=8] run data merge storage blockstates:io {data:{Properties:{power:"8"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=9] run data merge storage blockstates:io {data:{Properties:{power:"9"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=10] run data merge storage blockstates:io {data:{Properties:{power:"10"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=11] run data merge storage blockstates:io {data:{Properties:{power:"11"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=12] run data merge storage blockstates:io {data:{Properties:{power:"12"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=13] run data merge storage blockstates:io {data:{Properties:{power:"13"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=14] run data merge storage blockstates:io {data:{Properties:{power:"14"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[power=15] run data merge storage blockstates:io {data:{Properties:{power:"15"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[south=up] run data merge storage blockstates:io {data:{Properties:{south:"up"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[south=side] run data merge storage blockstates:io {data:{Properties:{south:"side"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[south=none] run data merge storage blockstates:io {data:{Properties:{south:"none"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[west=up] run data merge storage blockstates:io {data:{Properties:{west:"up"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[west=side] run data merge storage blockstates:io {data:{Properties:{west:"side"}}}
+execute if block ~ ~ ~ minecraft:redstone_wire[west=none] run data merge storage blockstates:io {data:{Properties:{west:"none"}}}
+data merge storage blockstates:io {data:{id:"minecraft:redstone_wire"}}
+data merge storage blockstates:io {data:{PropertyList:["east","north","power","south","west",]}}
