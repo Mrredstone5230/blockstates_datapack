@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:loom run function blockstates:zzz/gen/get_data_of/loom
-execute if block ~ ~ ~ minecraft:magenta_banner run function blockstates:zzz/gen/get_data_of/magenta_banner
+execute if block ~ ~ ~ minecraft:lime_candle run function blockstates:zzz/gen/get_data_of/lime_candle
+execute if block ~ ~ ~ minecraft:lime_candle_cake run function blockstates:zzz/gen/get_data_of/lime_candle_cake

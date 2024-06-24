@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:polished_blackstone_wall run function blockstates:zzz/gen/get_data_of/polished_blackstone_wall
-execute if block ~ ~ ~ minecraft:polished_deepslate run data merge storage blockstates:io {data:{id:"minecraft:polished_deepslate"}}
+execute if block ~ ~ ~ minecraft:pitcher_plant run function blockstates:zzz/gen/get_data_of/pitcher_plant
+execute if block ~ ~ ~ minecraft:player_head run function blockstates:zzz/gen/get_data_of/player_head

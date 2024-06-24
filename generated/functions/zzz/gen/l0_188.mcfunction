@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:glow_lichen run function blockstates:zzz/gen/get_data_of/glow_lichen
-execute if block ~ ~ ~ minecraft:glowstone run data merge storage blockstates:io {data:{id:"minecraft:glowstone"}}
+execute if block ~ ~ ~ minecraft:fire_coral_block run data merge storage blockstates:io {data:{id:"minecraft:fire_coral_block"}}
+execute if block ~ ~ ~ minecraft:fire_coral_fan run function blockstates:zzz/gen/get_data_of/fire_coral_fan

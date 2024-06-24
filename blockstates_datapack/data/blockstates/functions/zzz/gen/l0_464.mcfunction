@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:warped_fence run function blockstates:zzz/gen/get_data_of/warped_fence
-execute if block ~ ~ ~ minecraft:warped_fence_gate run function blockstates:zzz/gen/get_data_of/warped_fence_gate
+execute if block ~ ~ ~ minecraft:terracotta run data merge storage blockstates:io {data:{id:"minecraft:terracotta"}}
+execute if block ~ ~ ~ minecraft:tinted_glass run data merge storage blockstates:io {data:{id:"minecraft:tinted_glass"}}

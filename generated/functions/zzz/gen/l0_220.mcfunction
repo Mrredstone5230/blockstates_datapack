@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:jigsaw run function blockstates:zzz/gen/get_data_of/jigsaw
-execute if block ~ ~ ~ minecraft:jukebox run function blockstates:zzz/gen/get_data_of/jukebox
+execute if block ~ ~ ~ minecraft:infested_chiseled_stone_bricks run data merge storage blockstates:io {data:{id:"minecraft:infested_chiseled_stone_bricks"}}
+execute if block ~ ~ ~ minecraft:infested_cobblestone run data merge storage blockstates:io {data:{id:"minecraft:infested_cobblestone"}}

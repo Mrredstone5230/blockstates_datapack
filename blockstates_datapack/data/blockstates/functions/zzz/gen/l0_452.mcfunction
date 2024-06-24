@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:target run function blockstates:zzz/gen/get_data_of/target
-execute if block ~ ~ ~ minecraft:terracotta run data merge storage blockstates:io {data:{id:"minecraft:terracotta"}}
+execute if block ~ ~ ~ minecraft:stripped_crimson_hyphae run function blockstates:zzz/gen/get_data_of/stripped_crimson_hyphae
+execute if block ~ ~ ~ minecraft:stripped_crimson_stem run function blockstates:zzz/gen/get_data_of/stripped_crimson_stem

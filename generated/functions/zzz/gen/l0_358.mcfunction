@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:potted_torchflower run data merge storage blockstates:io {data:{id:"minecraft:potted_torchflower"}}
-execute if block ~ ~ ~ minecraft:potted_warped_fungus run data merge storage blockstates:io {data:{id:"minecraft:potted_warped_fungus"}}
+execute if block ~ ~ ~ minecraft:potted_brown_mushroom run data merge storage blockstates:io {data:{id:"minecraft:potted_brown_mushroom"}}
+execute if block ~ ~ ~ minecraft:potted_cactus run data merge storage blockstates:io {data:{id:"minecraft:potted_cactus"}}

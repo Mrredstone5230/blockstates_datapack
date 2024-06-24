@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:stripped_bamboo_block run function blockstates:zzz/gen/get_data_of/stripped_bamboo_block
-execute if block ~ ~ ~ minecraft:stripped_birch_log run function blockstates:zzz/gen/get_data_of/stripped_birch_log
+execute if block ~ ~ ~ minecraft:spruce_planks run data merge storage blockstates:io {data:{id:"minecraft:spruce_planks"}}
+execute if block ~ ~ ~ minecraft:spruce_pressure_plate run function blockstates:zzz/gen/get_data_of/spruce_pressure_plate

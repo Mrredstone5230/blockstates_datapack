@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:small_dripleaf run function blockstates:zzz/gen/get_data_of/small_dripleaf
-execute if block ~ ~ ~ minecraft:smithing_table run data merge storage blockstates:io {data:{id:"minecraft:smithing_table"}}
+execute if block ~ ~ ~ minecraft:rooted_dirt run data merge storage blockstates:io {data:{id:"minecraft:rooted_dirt"}}
+execute if block ~ ~ ~ minecraft:rose_bush run function blockstates:zzz/gen/get_data_of/rose_bush

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:green_wool run data merge storage blockstates:io {data:{id:"minecraft:green_wool"}}
-execute if block ~ ~ ~ minecraft:grindstone run function blockstates:zzz/gen/get_data_of/grindstone
+execute if block ~ ~ ~ minecraft:green_bed run function blockstates:zzz/gen/get_data_of/green_bed
+execute if block ~ ~ ~ minecraft:green_candle run function blockstates:zzz/gen/get_data_of/green_candle

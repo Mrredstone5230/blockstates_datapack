@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:infested_cobblestone run data merge storage blockstates:io {data:{id:"minecraft:infested_cobblestone"}}
-execute if block ~ ~ ~ minecraft:infested_cracked_stone_bricks run data merge storage blockstates:io {data:{id:"minecraft:infested_cracked_stone_bricks"}}
+execute if block ~ ~ ~ minecraft:hanging_roots run function blockstates:zzz/gen/get_data_of/hanging_roots
+execute if block ~ ~ ~ minecraft:hay_block run function blockstates:zzz/gen/get_data_of/hay_block

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:snow run function blockstates:zzz/gen/get_data_of/snow
-execute if block ~ ~ ~ minecraft:snow_block run data merge storage blockstates:io {data:{id:"minecraft:snow_block"}}
+execute if block ~ ~ ~ minecraft:short_grass run data merge storage blockstates:io {data:{id:"minecraft:short_grass"}}
+execute if block ~ ~ ~ minecraft:shroomlight run data merge storage blockstates:io {data:{id:"minecraft:shroomlight"}}

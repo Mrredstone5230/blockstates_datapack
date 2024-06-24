@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:packed_ice run data merge storage blockstates:io {data:{id:"minecraft:packed_ice"}}
-execute if block ~ ~ ~ minecraft:packed_mud run data merge storage blockstates:io {data:{id:"minecraft:packed_mud"}}
+execute if block ~ ~ ~ minecraft:orange_glazed_terracotta run function blockstates:zzz/gen/get_data_of/orange_glazed_terracotta
+execute if block ~ ~ ~ minecraft:orange_shulker_box run function blockstates:zzz/gen/get_data_of/orange_shulker_box

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:wither_rose run data merge storage blockstates:io {data:{id:"minecraft:wither_rose"}}
-execute if block ~ ~ ~ minecraft:wither_skeleton_skull run function blockstates:zzz/gen/get_data_of/wither_skeleton_skull
+execute if block ~ ~ ~ minecraft:waxed_cut_copper_slab run function blockstates:zzz/gen/get_data_of/waxed_cut_copper_slab
+execute if block ~ ~ ~ minecraft:waxed_cut_copper_stairs run function blockstates:zzz/gen/get_data_of/waxed_cut_copper_stairs

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:light_blue_carpet run data merge storage blockstates:io {data:{id:"minecraft:light_blue_carpet"}}
-execute if block ~ ~ ~ minecraft:light_blue_concrete run data merge storage blockstates:io {data:{id:"minecraft:light_blue_concrete"}}
+execute if block ~ ~ ~ minecraft:lapis_block run data merge storage blockstates:io {data:{id:"minecraft:lapis_block"}}
+execute if block ~ ~ ~ minecraft:lapis_ore run data merge storage blockstates:io {data:{id:"minecraft:lapis_ore"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:cyan_candle run function blockstates:zzz/gen/get_data_of/cyan_candle
-execute if block ~ ~ ~ minecraft:cyan_candle_cake run function blockstates:zzz/gen/get_data_of/cyan_candle_cake
+execute if block ~ ~ ~ minecraft:cut_copper_slab run function blockstates:zzz/gen/get_data_of/cut_copper_slab
+execute if block ~ ~ ~ minecraft:cut_copper_stairs run function blockstates:zzz/gen/get_data_of/cut_copper_stairs

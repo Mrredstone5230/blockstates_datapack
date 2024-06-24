@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:weathered_cut_copper_stairs run function blockstates:zzz/gen/get_data_of/weathered_cut_copper_stairs
-execute if block ~ ~ ~ minecraft:weeping_vines run function blockstates:zzz/gen/get_data_of/weeping_vines
+execute if block ~ ~ ~ minecraft:warped_planks run data merge storage blockstates:io {data:{id:"minecraft:warped_planks"}}
+execute if block ~ ~ ~ minecraft:warped_pressure_plate run function blockstates:zzz/gen/get_data_of/warped_pressure_plate

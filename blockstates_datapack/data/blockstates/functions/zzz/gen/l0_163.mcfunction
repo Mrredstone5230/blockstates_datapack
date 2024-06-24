@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:detector_rail run function blockstates:zzz/gen/get_data_of/detector_rail
-execute if block ~ ~ ~ minecraft:diamond_block run data merge storage blockstates:io {data:{id:"minecraft:diamond_block"}}
+execute if block ~ ~ ~ minecraft:deepslate_gold_ore run data merge storage blockstates:io {data:{id:"minecraft:deepslate_gold_ore"}}
+execute if block ~ ~ ~ minecraft:deepslate_iron_ore run data merge storage blockstates:io {data:{id:"minecraft:deepslate_iron_ore"}}

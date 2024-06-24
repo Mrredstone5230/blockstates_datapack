@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:polished_blackstone_slab run function blockstates:zzz/gen/get_data_of/polished_blackstone_slab
-execute if block ~ ~ ~ minecraft:polished_blackstone_stairs run function blockstates:zzz/gen/get_data_of/polished_blackstone_stairs
+execute if block ~ ~ ~ minecraft:piston_head run function blockstates:zzz/gen/get_data_of/piston_head
+execute if block ~ ~ ~ minecraft:pitcher_crop run function blockstates:zzz/gen/get_data_of/pitcher_crop

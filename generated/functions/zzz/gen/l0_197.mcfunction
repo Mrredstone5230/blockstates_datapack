@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:gray_glazed_terracotta run function blockstates:zzz/gen/get_data_of/gray_glazed_terracotta
-execute if block ~ ~ ~ minecraft:gray_shulker_box run function blockstates:zzz/gen/get_data_of/gray_shulker_box
+execute if block ~ ~ ~ minecraft:granite_slab run function blockstates:zzz/gen/get_data_of/granite_slab
+execute if block ~ ~ ~ minecraft:granite_stairs run function blockstates:zzz/gen/get_data_of/granite_stairs

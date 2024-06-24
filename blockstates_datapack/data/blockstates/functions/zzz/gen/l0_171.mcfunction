@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:emerald_block run data merge storage blockstates:io {data:{id:"minecraft:emerald_block"}}
-execute if block ~ ~ ~ minecraft:emerald_ore run data merge storage blockstates:io {data:{id:"minecraft:emerald_ore"}}
+execute if block ~ ~ ~ minecraft:dirt_path run data merge storage blockstates:io {data:{id:"minecraft:dirt_path"}}
+execute if block ~ ~ ~ minecraft:dispenser run function blockstates:zzz/gen/get_data_of/dispenser

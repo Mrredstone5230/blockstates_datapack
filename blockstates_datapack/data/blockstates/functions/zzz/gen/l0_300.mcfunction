@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:oak_sign run function blockstates:zzz/gen/get_data_of/oak_sign
-execute if block ~ ~ ~ minecraft:oak_slab run function blockstates:zzz/gen/get_data_of/oak_slab
+execute if block ~ ~ ~ minecraft:netherite_block run data merge storage blockstates:io {data:{id:"minecraft:netherite_block"}}
+execute if block ~ ~ ~ minecraft:netherrack run data merge storage blockstates:io {data:{id:"minecraft:netherrack"}}

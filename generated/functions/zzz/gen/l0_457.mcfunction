@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:tube_coral run function blockstates:zzz/gen/get_data_of/tube_coral
-execute if block ~ ~ ~ minecraft:tube_coral_block run data merge storage blockstates:io {data:{id:"minecraft:tube_coral_block"}}
+execute if block ~ ~ ~ minecraft:stripped_spruce_log run function blockstates:zzz/gen/get_data_of/stripped_spruce_log
+execute if block ~ ~ ~ minecraft:stripped_spruce_wood run function blockstates:zzz/gen/get_data_of/stripped_spruce_wood

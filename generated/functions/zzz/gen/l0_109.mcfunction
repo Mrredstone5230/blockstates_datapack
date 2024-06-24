@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:cracked_nether_bricks run data merge storage blockstates:io {data:{id:"minecraft:cracked_nether_bricks"}}
-execute if block ~ ~ ~ minecraft:cracked_polished_blackstone_bricks run data merge storage blockstates:io {data:{id:"minecraft:cracked_polished_blackstone_bricks"}}
+execute if block ~ ~ ~ minecraft:copper_door run function blockstates:zzz/gen/get_data_of/copper_door
+execute if block ~ ~ ~ minecraft:copper_grate run function blockstates:zzz/gen/get_data_of/copper_grate

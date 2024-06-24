@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:prismarine_slab run function blockstates:zzz/gen/get_data_of/prismarine_slab
-execute if block ~ ~ ~ minecraft:prismarine_stairs run function blockstates:zzz/gen/get_data_of/prismarine_stairs
+execute if block ~ ~ ~ minecraft:potted_lily_of_the_valley run data merge storage blockstates:io {data:{id:"minecraft:potted_lily_of_the_valley"}}
+execute if block ~ ~ ~ minecraft:potted_mangrove_propagule run data merge storage blockstates:io {data:{id:"minecraft:potted_mangrove_propagule"}}

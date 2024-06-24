@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:jungle_sign run function blockstates:zzz/gen/get_data_of/jungle_sign
-execute if block ~ ~ ~ minecraft:jungle_slab run function blockstates:zzz/gen/get_data_of/jungle_slab
+execute if block ~ ~ ~ minecraft:jack_o_lantern run function blockstates:zzz/gen/get_data_of/jack_o_lantern
+execute if block ~ ~ ~ minecraft:jigsaw run function blockstates:zzz/gen/get_data_of/jigsaw

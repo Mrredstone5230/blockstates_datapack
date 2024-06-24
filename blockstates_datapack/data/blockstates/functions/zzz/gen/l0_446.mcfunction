@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:stripped_spruce_wood run function blockstates:zzz/gen/get_data_of/stripped_spruce_wood
-execute if block ~ ~ ~ minecraft:stripped_warped_hyphae run function blockstates:zzz/gen/get_data_of/stripped_warped_hyphae
+execute if block ~ ~ ~ minecraft:stone_button run function blockstates:zzz/gen/get_data_of/stone_button
+execute if block ~ ~ ~ minecraft:stone_pressure_plate run function blockstates:zzz/gen/get_data_of/stone_pressure_plate

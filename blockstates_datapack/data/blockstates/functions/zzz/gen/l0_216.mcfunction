@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:infested_stone run data merge storage blockstates:io {data:{id:"minecraft:infested_stone"}}
-execute if block ~ ~ ~ minecraft:infested_stone_bricks run data merge storage blockstates:io {data:{id:"minecraft:infested_stone_bricks"}}
+execute if block ~ ~ ~ minecraft:honey_block run data merge storage blockstates:io {data:{id:"minecraft:honey_block"}}
+execute if block ~ ~ ~ minecraft:honeycomb_block run data merge storage blockstates:io {data:{id:"minecraft:honeycomb_block"}}

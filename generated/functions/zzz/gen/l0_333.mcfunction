@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:polished_blackstone_brick_slab run function blockstates:zzz/gen/get_data_of/polished_blackstone_brick_slab
-execute if block ~ ~ ~ minecraft:polished_blackstone_brick_stairs run function blockstates:zzz/gen/get_data_of/polished_blackstone_brick_stairs
+execute if block ~ ~ ~ minecraft:pink_stained_glass_pane run function blockstates:zzz/gen/get_data_of/pink_stained_glass_pane
+execute if block ~ ~ ~ minecraft:pink_terracotta run data merge storage blockstates:io {data:{id:"minecraft:pink_terracotta"}}

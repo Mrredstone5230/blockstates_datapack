@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:crimson_button run function blockstates:zzz/gen/get_data_of/crimson_button
-execute if block ~ ~ ~ minecraft:crimson_door run function blockstates:zzz/gen/get_data_of/crimson_door
+execute if block ~ ~ ~ minecraft:cracked_deepslate_tiles run data merge storage blockstates:io {data:{id:"minecraft:cracked_deepslate_tiles"}}
+execute if block ~ ~ ~ minecraft:cracked_nether_bricks run data merge storage blockstates:io {data:{id:"minecraft:cracked_nether_bricks"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:verdant_froglight run function blockstates:zzz/gen/get_data_of/verdant_froglight
-execute if block ~ ~ ~ minecraft:vine run function blockstates:zzz/gen/get_data_of/vine
+execute if block ~ ~ ~ minecraft:suspicious_gravel run function blockstates:zzz/gen/get_data_of/suspicious_gravel
+execute if block ~ ~ ~ minecraft:suspicious_sand run function blockstates:zzz/gen/get_data_of/suspicious_sand

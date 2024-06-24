@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:gravel run data merge storage blockstates:io {data:{id:"minecraft:gravel"}}
-execute if block ~ ~ ~ minecraft:gray_banner run function blockstates:zzz/gen/get_data_of/gray_banner
+execute if block ~ ~ ~ minecraft:gilded_blackstone run data merge storage blockstates:io {data:{id:"minecraft:gilded_blackstone"}}
+execute if block ~ ~ ~ minecraft:glass run data merge storage blockstates:io {data:{id:"minecraft:glass"}}

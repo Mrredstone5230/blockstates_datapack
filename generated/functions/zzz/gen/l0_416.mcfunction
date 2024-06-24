@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:smooth_stone_slab run function blockstates:zzz/gen/get_data_of/smooth_stone_slab
-execute if block ~ ~ ~ minecraft:sniffer_egg run function blockstates:zzz/gen/get_data_of/sniffer_egg
+execute if block ~ ~ ~ minecraft:sea_pickle run function blockstates:zzz/gen/get_data_of/sea_pickle
+execute if block ~ ~ ~ minecraft:seagrass run data merge storage blockstates:io {data:{id:"minecraft:seagrass"}}

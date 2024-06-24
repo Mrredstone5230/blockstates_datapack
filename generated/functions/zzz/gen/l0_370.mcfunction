@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:purple_glazed_terracotta run function blockstates:zzz/gen/get_data_of/purple_glazed_terracotta
-execute if block ~ ~ ~ minecraft:purple_shulker_box run function blockstates:zzz/gen/get_data_of/purple_shulker_box
+execute if block ~ ~ ~ minecraft:potted_warped_roots run data merge storage blockstates:io {data:{id:"minecraft:potted_warped_roots"}}
+execute if block ~ ~ ~ minecraft:potted_white_tulip run data merge storage blockstates:io {data:{id:"minecraft:potted_white_tulip"}}

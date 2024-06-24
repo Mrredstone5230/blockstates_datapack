@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:dark_oak_log run function blockstates:zzz/gen/get_data_of/dark_oak_log
-execute if block ~ ~ ~ minecraft:dark_oak_planks run data merge storage blockstates:io {data:{id:"minecraft:dark_oak_planks"}}
+execute if block ~ ~ ~ minecraft:damaged_anvil run function blockstates:zzz/gen/get_data_of/damaged_anvil
+execute if block ~ ~ ~ minecraft:dandelion run data merge storage blockstates:io {data:{id:"minecraft:dandelion"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:green_stained_glass run data merge storage blockstates:io {data:{id:"minecraft:green_stained_glass"}}
-execute if block ~ ~ ~ minecraft:green_stained_glass_pane run function blockstates:zzz/gen/get_data_of/green_stained_glass_pane
+execute if block ~ ~ ~ minecraft:gray_terracotta run data merge storage blockstates:io {data:{id:"minecraft:gray_terracotta"}}
+execute if block ~ ~ ~ minecraft:gray_wall_banner run function blockstates:zzz/gen/get_data_of/gray_wall_banner

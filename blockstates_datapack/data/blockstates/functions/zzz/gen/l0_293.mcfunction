@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:nether_wart_block run data merge storage blockstates:io {data:{id:"minecraft:nether_wart_block"}}
-execute if block ~ ~ ~ minecraft:netherite_block run data merge storage blockstates:io {data:{id:"minecraft:netherite_block"}}
+execute if block ~ ~ ~ minecraft:muddy_mangrove_roots run function blockstates:zzz/gen/get_data_of/muddy_mangrove_roots
+execute if block ~ ~ ~ minecraft:mushroom_stem run function blockstates:zzz/gen/get_data_of/mushroom_stem

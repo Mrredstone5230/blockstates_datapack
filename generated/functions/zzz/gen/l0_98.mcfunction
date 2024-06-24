@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:coal_block run data merge storage blockstates:io {data:{id:"minecraft:coal_block"}}
-execute if block ~ ~ ~ minecraft:coal_ore run data merge storage blockstates:io {data:{id:"minecraft:coal_ore"}}
+execute if block ~ ~ ~ minecraft:chorus_flower run function blockstates:zzz/gen/get_data_of/chorus_flower
+execute if block ~ ~ ~ minecraft:chorus_plant run function blockstates:zzz/gen/get_data_of/chorus_plant

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:honeycomb_block run data merge storage blockstates:io {data:{id:"minecraft:honeycomb_block"}}
-execute if block ~ ~ ~ minecraft:hopper run function blockstates:zzz/gen/get_data_of/hopper
+execute if block ~ ~ ~ minecraft:green_glazed_terracotta run function blockstates:zzz/gen/get_data_of/green_glazed_terracotta
+execute if block ~ ~ ~ minecraft:green_shulker_box run function blockstates:zzz/gen/get_data_of/green_shulker_box

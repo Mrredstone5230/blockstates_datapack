@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:lily_pad run data merge storage blockstates:io {data:{id:"minecraft:lily_pad"}}
-execute if block ~ ~ ~ minecraft:lime_banner run function blockstates:zzz/gen/get_data_of/lime_banner
+execute if block ~ ~ ~ minecraft:light_gray_concrete run data merge storage blockstates:io {data:{id:"minecraft:light_gray_concrete"}}
+execute if block ~ ~ ~ minecraft:light_gray_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:light_gray_concrete_powder"}}

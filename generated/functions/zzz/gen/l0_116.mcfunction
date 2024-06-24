@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:crimson_planks run data merge storage blockstates:io {data:{id:"minecraft:crimson_planks"}}
-execute if block ~ ~ ~ minecraft:crimson_pressure_plate run function blockstates:zzz/gen/get_data_of/crimson_pressure_plate
+execute if block ~ ~ ~ minecraft:crimson_button run function blockstates:zzz/gen/get_data_of/crimson_button
+execute if block ~ ~ ~ minecraft:crimson_door run function blockstates:zzz/gen/get_data_of/crimson_door

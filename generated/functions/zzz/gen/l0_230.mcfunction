@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:kelp_plant run data merge storage blockstates:io {data:{id:"minecraft:kelp_plant"}}
-execute if block ~ ~ ~ minecraft:ladder run function blockstates:zzz/gen/get_data_of/ladder
+execute if block ~ ~ ~ minecraft:jungle_leaves run function blockstates:zzz/gen/get_data_of/jungle_leaves
+execute if block ~ ~ ~ minecraft:jungle_log run function blockstates:zzz/gen/get_data_of/jungle_log

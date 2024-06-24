@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:warped_button run function blockstates:zzz/gen/get_data_of/warped_button
-execute if block ~ ~ ~ minecraft:warped_door run function blockstates:zzz/gen/get_data_of/warped_door
+execute if block ~ ~ ~ minecraft:tall_seagrass run function blockstates:zzz/gen/get_data_of/tall_seagrass
+execute if block ~ ~ ~ minecraft:target run function blockstates:zzz/gen/get_data_of/target

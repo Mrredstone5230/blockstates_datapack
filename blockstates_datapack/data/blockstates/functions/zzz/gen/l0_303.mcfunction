@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:oak_wood run function blockstates:zzz/gen/get_data_of/oak_wood
-execute if block ~ ~ ~ minecraft:observer run function blockstates:zzz/gen/get_data_of/observer
+execute if block ~ ~ ~ minecraft:oak_fence_gate run function blockstates:zzz/gen/get_data_of/oak_fence_gate
+execute if block ~ ~ ~ minecraft:oak_hanging_sign run function blockstates:zzz/gen/get_data_of/oak_hanging_sign

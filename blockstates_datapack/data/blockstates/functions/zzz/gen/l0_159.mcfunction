@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:deepslate_gold_ore run data merge storage blockstates:io {data:{id:"minecraft:deepslate_gold_ore"}}
-execute if block ~ ~ ~ minecraft:deepslate_iron_ore run data merge storage blockstates:io {data:{id:"minecraft:deepslate_iron_ore"}}
+execute if block ~ ~ ~ minecraft:deepslate_brick_slab run function blockstates:zzz/gen/get_data_of/deepslate_brick_slab
+execute if block ~ ~ ~ minecraft:deepslate_brick_stairs run function blockstates:zzz/gen/get_data_of/deepslate_brick_stairs

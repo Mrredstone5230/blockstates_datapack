@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:powder_snow_cauldron run function blockstates:zzz/gen/get_data_of/powder_snow_cauldron
-execute if block ~ ~ ~ minecraft:powered_rail run function blockstates:zzz/gen/get_data_of/powered_rail
+execute if block ~ ~ ~ minecraft:potted_dandelion run data merge storage blockstates:io {data:{id:"minecraft:potted_dandelion"}}
+execute if block ~ ~ ~ minecraft:potted_dark_oak_sapling run data merge storage blockstates:io {data:{id:"minecraft:potted_dark_oak_sapling"}}

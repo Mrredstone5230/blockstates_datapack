@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:torch run data merge storage blockstates:io {data:{id:"minecraft:torch"}}
-execute if block ~ ~ ~ minecraft:torchflower run data merge storage blockstates:io {data:{id:"minecraft:torchflower"}}
+execute if block ~ ~ ~ minecraft:stripped_jungle_log run function blockstates:zzz/gen/get_data_of/stripped_jungle_log
+execute if block ~ ~ ~ minecraft:stripped_jungle_wood run function blockstates:zzz/gen/get_data_of/stripped_jungle_wood

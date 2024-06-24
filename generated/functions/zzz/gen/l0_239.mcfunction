@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:light_blue_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:light_blue_concrete_powder"}}
-execute if block ~ ~ ~ minecraft:light_blue_glazed_terracotta run function blockstates:zzz/gen/get_data_of/light_blue_glazed_terracotta
+execute if block ~ ~ ~ minecraft:large_amethyst_bud run function blockstates:zzz/gen/get_data_of/large_amethyst_bud
+execute if block ~ ~ ~ minecraft:large_fern run function blockstates:zzz/gen/get_data_of/large_fern

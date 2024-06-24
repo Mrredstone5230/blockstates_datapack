@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:lever run function blockstates:zzz/gen/get_data_of/lever
-execute if block ~ ~ ~ minecraft:light run function blockstates:zzz/gen/get_data_of/light
+execute if block ~ ~ ~ minecraft:jungle_wall_sign run function blockstates:zzz/gen/get_data_of/jungle_wall_sign
+execute if block ~ ~ ~ minecraft:jungle_wood run function blockstates:zzz/gen/get_data_of/jungle_wood

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:pitcher_plant run function blockstates:zzz/gen/get_data_of/pitcher_plant
-execute if block ~ ~ ~ minecraft:player_head run function blockstates:zzz/gen/get_data_of/player_head
+execute if block ~ ~ ~ minecraft:pink_bed run function blockstates:zzz/gen/get_data_of/pink_bed
+execute if block ~ ~ ~ minecraft:pink_candle run function blockstates:zzz/gen/get_data_of/pink_candle

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:lime_candle_cake run function blockstates:zzz/gen/get_data_of/lime_candle_cake
-execute if block ~ ~ ~ minecraft:lime_carpet run data merge storage blockstates:io {data:{id:"minecraft:lime_carpet"}}
+execute if block ~ ~ ~ minecraft:light_gray_stained_glass run data merge storage blockstates:io {data:{id:"minecraft:light_gray_stained_glass"}}
+execute if block ~ ~ ~ minecraft:light_gray_stained_glass_pane run function blockstates:zzz/gen/get_data_of/light_gray_stained_glass_pane

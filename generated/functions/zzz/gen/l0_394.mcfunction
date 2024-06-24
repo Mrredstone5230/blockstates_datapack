@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:redstone_ore run function blockstates:zzz/gen/get_data_of/redstone_ore
-execute if block ~ ~ ~ minecraft:redstone_torch run function blockstates:zzz/gen/get_data_of/redstone_torch
+execute if block ~ ~ ~ minecraft:red_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:red_concrete_powder"}}
+execute if block ~ ~ ~ minecraft:red_glazed_terracotta run function blockstates:zzz/gen/get_data_of/red_glazed_terracotta

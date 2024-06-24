@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:end_stone_brick_slab run function blockstates:zzz/gen/get_data_of/end_stone_brick_slab
-execute if block ~ ~ ~ minecraft:end_stone_brick_stairs run function blockstates:zzz/gen/get_data_of/end_stone_brick_stairs
+execute if block ~ ~ ~ minecraft:emerald_block run data merge storage blockstates:io {data:{id:"minecraft:emerald_block"}}
+execute if block ~ ~ ~ minecraft:emerald_ore run data merge storage blockstates:io {data:{id:"minecraft:emerald_ore"}}

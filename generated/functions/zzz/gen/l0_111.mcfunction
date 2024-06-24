@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:creeper_head run function blockstates:zzz/gen/get_data_of/creeper_head
-execute if block ~ ~ ~ minecraft:creeper_wall_head run function blockstates:zzz/gen/get_data_of/creeper_wall_head
+execute if block ~ ~ ~ minecraft:cornflower run data merge storage blockstates:io {data:{id:"minecraft:cornflower"}}
+execute if block ~ ~ ~ minecraft:cracked_deepslate_bricks run data merge storage blockstates:io {data:{id:"minecraft:cracked_deepslate_bricks"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:wheat run function blockstates:zzz/gen/get_data_of/wheat
-execute if block ~ ~ ~ minecraft:white_banner run function blockstates:zzz/gen/get_data_of/white_banner
+execute if block ~ ~ ~ minecraft:warped_slab run function blockstates:zzz/gen/get_data_of/warped_slab
+execute if block ~ ~ ~ minecraft:warped_stairs run function blockstates:zzz/gen/get_data_of/warped_stairs

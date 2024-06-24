@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:tube_coral_fan run function blockstates:zzz/gen/get_data_of/tube_coral_fan
-execute if block ~ ~ ~ minecraft:tube_coral_wall_fan run function blockstates:zzz/gen/get_data_of/tube_coral_wall_fan
+execute if block ~ ~ ~ minecraft:stripped_warped_hyphae run function blockstates:zzz/gen/get_data_of/stripped_warped_hyphae
+execute if block ~ ~ ~ minecraft:stripped_warped_stem run function blockstates:zzz/gen/get_data_of/stripped_warped_stem

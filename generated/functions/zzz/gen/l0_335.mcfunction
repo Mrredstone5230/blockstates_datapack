@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:polished_blackstone_button run function blockstates:zzz/gen/get_data_of/polished_blackstone_button
-execute if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate run function blockstates:zzz/gen/get_data_of/polished_blackstone_pressure_plate
+execute if block ~ ~ ~ minecraft:pink_wool run data merge storage blockstates:io {data:{id:"minecraft:pink_wool"}}
+execute if block ~ ~ ~ minecraft:piston run function blockstates:zzz/gen/get_data_of/piston

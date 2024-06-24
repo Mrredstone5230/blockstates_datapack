@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:light_gray_banner run function blockstates:zzz/gen/get_data_of/light_gray_banner
-execute if block ~ ~ ~ minecraft:light_gray_bed run function blockstates:zzz/gen/get_data_of/light_gray_bed
+execute if block ~ ~ ~ minecraft:light_blue_bed run function blockstates:zzz/gen/get_data_of/light_blue_bed
+execute if block ~ ~ ~ minecraft:light_blue_candle run function blockstates:zzz/gen/get_data_of/light_blue_candle

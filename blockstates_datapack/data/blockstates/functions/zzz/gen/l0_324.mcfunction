@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:pink_stained_glass_pane run function blockstates:zzz/gen/get_data_of/pink_stained_glass_pane
-execute if block ~ ~ ~ minecraft:pink_terracotta run data merge storage blockstates:io {data:{id:"minecraft:pink_terracotta"}}
+execute if block ~ ~ ~ minecraft:packed_ice run data merge storage blockstates:io {data:{id:"minecraft:packed_ice"}}
+execute if block ~ ~ ~ minecraft:packed_mud run data merge storage blockstates:io {data:{id:"minecraft:packed_mud"}}

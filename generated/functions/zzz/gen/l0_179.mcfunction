@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:exposed_cut_copper_stairs run function blockstates:zzz/gen/get_data_of/exposed_cut_copper_stairs
-execute if block ~ ~ ~ minecraft:farmland run function blockstates:zzz/gen/get_data_of/farmland
+execute if block ~ ~ ~ minecraft:end_stone_brick_slab run function blockstates:zzz/gen/get_data_of/end_stone_brick_slab
+execute if block ~ ~ ~ minecraft:end_stone_brick_stairs run function blockstates:zzz/gen/get_data_of/end_stone_brick_stairs

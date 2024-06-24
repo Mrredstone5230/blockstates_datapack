@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:soul_campfire run function blockstates:zzz/gen/get_data_of/soul_campfire
-execute if block ~ ~ ~ minecraft:soul_fire run data merge storage blockstates:io {data:{id:"minecraft:soul_fire"}}
+execute if block ~ ~ ~ minecraft:shulker_box run function blockstates:zzz/gen/get_data_of/shulker_box
+execute if block ~ ~ ~ minecraft:skeleton_skull run function blockstates:zzz/gen/get_data_of/skeleton_skull

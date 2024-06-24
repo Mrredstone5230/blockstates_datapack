@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:mossy_stone_brick_stairs run function blockstates:zzz/gen/get_data_of/mossy_stone_brick_stairs
-execute if block ~ ~ ~ minecraft:mossy_stone_brick_wall run function blockstates:zzz/gen/get_data_of/mossy_stone_brick_wall
+execute if block ~ ~ ~ minecraft:mangrove_wall_hanging_sign run function blockstates:zzz/gen/get_data_of/mangrove_wall_hanging_sign
+execute if block ~ ~ ~ minecraft:mangrove_wall_sign run function blockstates:zzz/gen/get_data_of/mangrove_wall_sign

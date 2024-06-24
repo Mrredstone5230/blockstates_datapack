@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:pink_concrete run data merge storage blockstates:io {data:{id:"minecraft:pink_concrete"}}
-execute if block ~ ~ ~ minecraft:pink_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:pink_concrete_powder"}}
+execute if block ~ ~ ~ minecraft:oxidized_copper_door run function blockstates:zzz/gen/get_data_of/oxidized_copper_door
+execute if block ~ ~ ~ minecraft:oxidized_copper_grate run function blockstates:zzz/gen/get_data_of/oxidized_copper_grate

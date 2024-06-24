@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:deepslate_coal_ore run data merge storage blockstates:io {data:{id:"minecraft:deepslate_coal_ore"}}
-execute if block ~ ~ ~ minecraft:deepslate_copper_ore run data merge storage blockstates:io {data:{id:"minecraft:deepslate_copper_ore"}}
+execute if block ~ ~ ~ minecraft:dead_tube_coral_fan run function blockstates:zzz/gen/get_data_of/dead_tube_coral_fan
+execute if block ~ ~ ~ minecraft:dead_tube_coral_wall_fan run function blockstates:zzz/gen/get_data_of/dead_tube_coral_wall_fan

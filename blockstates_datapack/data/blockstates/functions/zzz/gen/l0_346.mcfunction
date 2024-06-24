@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:potted_birch_sapling run data merge storage blockstates:io {data:{id:"minecraft:potted_birch_sapling"}}
-execute if block ~ ~ ~ minecraft:potted_blue_orchid run data merge storage blockstates:io {data:{id:"minecraft:potted_blue_orchid"}}
+execute if block ~ ~ ~ minecraft:polished_blackstone_wall run function blockstates:zzz/gen/get_data_of/polished_blackstone_wall
+execute if block ~ ~ ~ minecraft:polished_deepslate run data merge storage blockstates:io {data:{id:"minecraft:polished_deepslate"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:dead_brain_coral_wall_fan run function blockstates:zzz/gen/get_data_of/dead_brain_coral_wall_fan
-execute if block ~ ~ ~ minecraft:dead_bubble_coral run function blockstates:zzz/gen/get_data_of/dead_bubble_coral
+execute if block ~ ~ ~ minecraft:dark_oak_wood run function blockstates:zzz/gen/get_data_of/dark_oak_wood
+execute if block ~ ~ ~ minecraft:dark_prismarine run data merge storage blockstates:io {data:{id:"minecraft:dark_prismarine"}}

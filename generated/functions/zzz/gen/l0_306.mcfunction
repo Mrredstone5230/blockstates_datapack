@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:orange_candle run function blockstates:zzz/gen/get_data_of/orange_candle
-execute if block ~ ~ ~ minecraft:orange_candle_cake run function blockstates:zzz/gen/get_data_of/orange_candle_cake
+execute if block ~ ~ ~ minecraft:oak_sapling run function blockstates:zzz/gen/get_data_of/oak_sapling
+execute if block ~ ~ ~ minecraft:oak_sign run function blockstates:zzz/gen/get_data_of/oak_sign

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:pink_bed run function blockstates:zzz/gen/get_data_of/pink_bed
-execute if block ~ ~ ~ minecraft:pink_candle run function blockstates:zzz/gen/get_data_of/pink_candle
+execute if block ~ ~ ~ minecraft:oxeye_daisy run data merge storage blockstates:io {data:{id:"minecraft:oxeye_daisy"}}
+execute if block ~ ~ ~ minecraft:oxidized_chiseled_copper run data merge storage blockstates:io {data:{id:"minecraft:oxidized_chiseled_copper"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:white_wall_banner run function blockstates:zzz/gen/get_data_of/white_wall_banner
-execute if block ~ ~ ~ minecraft:white_wool run data merge storage blockstates:io {data:{id:"minecraft:white_wool"}}
+execute if block ~ ~ ~ minecraft:waxed_copper_trapdoor run function blockstates:zzz/gen/get_data_of/waxed_copper_trapdoor
+execute if block ~ ~ ~ minecraft:waxed_cut_copper run data merge storage blockstates:io {data:{id:"minecraft:waxed_cut_copper"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:soul_soil run data merge storage blockstates:io {data:{id:"minecraft:soul_soil"}}
-execute if block ~ ~ ~ minecraft:soul_torch run data merge storage blockstates:io {data:{id:"minecraft:soul_torch"}}
+execute if block ~ ~ ~ minecraft:small_amethyst_bud run function blockstates:zzz/gen/get_data_of/small_amethyst_bud
+execute if block ~ ~ ~ minecraft:small_dripleaf run function blockstates:zzz/gen/get_data_of/small_dripleaf

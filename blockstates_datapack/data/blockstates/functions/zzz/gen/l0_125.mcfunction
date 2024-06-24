@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:cyan_banner run function blockstates:zzz/gen/get_data_of/cyan_banner
-execute if block ~ ~ ~ minecraft:cyan_bed run function blockstates:zzz/gen/get_data_of/cyan_bed
+execute if block ~ ~ ~ minecraft:crying_obsidian run data merge storage blockstates:io {data:{id:"minecraft:crying_obsidian"}}
+execute if block ~ ~ ~ minecraft:cut_copper run data merge storage blockstates:io {data:{id:"minecraft:cut_copper"}}

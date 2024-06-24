@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:deepslate_brick_slab run function blockstates:zzz/gen/get_data_of/deepslate_brick_slab
-execute if block ~ ~ ~ minecraft:deepslate_brick_stairs run function blockstates:zzz/gen/get_data_of/deepslate_brick_stairs
+execute if block ~ ~ ~ minecraft:dead_horn_coral_fan run function blockstates:zzz/gen/get_data_of/dead_horn_coral_fan
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan run function blockstates:zzz/gen/get_data_of/dead_horn_coral_wall_fan

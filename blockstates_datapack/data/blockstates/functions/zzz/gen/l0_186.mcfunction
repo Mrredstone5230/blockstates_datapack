@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:furnace run function blockstates:zzz/gen/get_data_of/furnace
-execute if block ~ ~ ~ minecraft:gilded_blackstone run data merge storage blockstates:io {data:{id:"minecraft:gilded_blackstone"}}
+execute if block ~ ~ ~ minecraft:farmland run function blockstates:zzz/gen/get_data_of/farmland
+execute if block ~ ~ ~ minecraft:fern run data merge storage blockstates:io {data:{id:"minecraft:fern"}}

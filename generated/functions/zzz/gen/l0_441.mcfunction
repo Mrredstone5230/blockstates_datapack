@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:stripped_crimson_stem run function blockstates:zzz/gen/get_data_of/stripped_crimson_stem
-execute if block ~ ~ ~ minecraft:stripped_dark_oak_log run function blockstates:zzz/gen/get_data_of/stripped_dark_oak_log
+execute if block ~ ~ ~ minecraft:spruce_trapdoor run function blockstates:zzz/gen/get_data_of/spruce_trapdoor
+execute if block ~ ~ ~ minecraft:spruce_wall_hanging_sign run function blockstates:zzz/gen/get_data_of/spruce_wall_hanging_sign

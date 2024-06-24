@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:jungle_hanging_sign run function blockstates:zzz/gen/get_data_of/jungle_hanging_sign
-execute if block ~ ~ ~ minecraft:jungle_leaves run function blockstates:zzz/gen/get_data_of/jungle_leaves
+execute if block ~ ~ ~ minecraft:infested_stone_bricks run data merge storage blockstates:io {data:{id:"minecraft:infested_stone_bricks"}}
+execute if block ~ ~ ~ minecraft:iron_bars run function blockstates:zzz/gen/get_data_of/iron_bars

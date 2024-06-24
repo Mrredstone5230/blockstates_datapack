@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:white_glazed_terracotta run function blockstates:zzz/gen/get_data_of/white_glazed_terracotta
-execute if block ~ ~ ~ minecraft:white_shulker_box run function blockstates:zzz/gen/get_data_of/white_shulker_box
+execute if block ~ ~ ~ minecraft:water_cauldron run function blockstates:zzz/gen/get_data_of/water_cauldron
+execute if block ~ ~ ~ minecraft:waxed_chiseled_copper run data merge storage blockstates:io {data:{id:"minecraft:waxed_chiseled_copper"}}

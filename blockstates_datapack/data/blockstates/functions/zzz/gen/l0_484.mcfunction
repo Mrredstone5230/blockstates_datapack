@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:weeping_vines_plant run data merge storage blockstates:io {data:{id:"minecraft:weeping_vines_plant"}}
-execute if block ~ ~ ~ minecraft:wet_sponge run data merge storage blockstates:io {data:{id:"minecraft:wet_sponge"}}
+execute if block ~ ~ ~ minecraft:warped_roots run data merge storage blockstates:io {data:{id:"minecraft:warped_roots"}}
+execute if block ~ ~ ~ minecraft:warped_sign run function blockstates:zzz/gen/get_data_of/warped_sign

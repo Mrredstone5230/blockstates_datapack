@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:rail run function blockstates:zzz/gen/get_data_of/rail
-execute if block ~ ~ ~ minecraft:raw_copper_block run data merge storage blockstates:io {data:{id:"minecraft:raw_copper_block"}}
+execute if block ~ ~ ~ minecraft:purple_bed run function blockstates:zzz/gen/get_data_of/purple_bed
+execute if block ~ ~ ~ minecraft:purple_candle run function blockstates:zzz/gen/get_data_of/purple_candle

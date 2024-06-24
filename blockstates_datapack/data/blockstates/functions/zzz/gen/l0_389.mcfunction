@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:red_sandstone_wall run function blockstates:zzz/gen/get_data_of/red_sandstone_wall
-execute if block ~ ~ ~ minecraft:red_shulker_box run function blockstates:zzz/gen/get_data_of/red_shulker_box
+execute if block ~ ~ ~ minecraft:rail run function blockstates:zzz/gen/get_data_of/rail
+execute if block ~ ~ ~ minecraft:raw_copper_block run data merge storage blockstates:io {data:{id:"minecraft:raw_copper_block"}}

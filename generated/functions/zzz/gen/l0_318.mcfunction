@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:piglin_wall_head run function blockstates:zzz/gen/get_data_of/piglin_wall_head
-execute if block ~ ~ ~ minecraft:pink_banner run function blockstates:zzz/gen/get_data_of/pink_banner
+execute if block ~ ~ ~ minecraft:orange_wall_banner run function blockstates:zzz/gen/get_data_of/orange_wall_banner
+execute if block ~ ~ ~ minecraft:orange_wool run data merge storage blockstates:io {data:{id:"minecraft:orange_wool"}}

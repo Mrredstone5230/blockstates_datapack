@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:pink_wool run data merge storage blockstates:io {data:{id:"minecraft:pink_wool"}}
-execute if block ~ ~ ~ minecraft:piston run function blockstates:zzz/gen/get_data_of/piston
+execute if block ~ ~ ~ minecraft:petrified_oak_slab run function blockstates:zzz/gen/get_data_of/petrified_oak_slab
+execute if block ~ ~ ~ minecraft:piglin_head run function blockstates:zzz/gen/get_data_of/piglin_head

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:quartz_slab run function blockstates:zzz/gen/get_data_of/quartz_slab
-execute if block ~ ~ ~ minecraft:quartz_stairs run function blockstates:zzz/gen/get_data_of/quartz_stairs
+execute if block ~ ~ ~ minecraft:pumpkin_stem run function blockstates:zzz/gen/get_data_of/pumpkin_stem
+execute if block ~ ~ ~ minecraft:purple_banner run function blockstates:zzz/gen/get_data_of/purple_banner

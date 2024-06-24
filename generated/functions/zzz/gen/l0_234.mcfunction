@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:lava_cauldron run data merge storage blockstates:io {data:{id:"minecraft:lava_cauldron"}}
-execute if block ~ ~ ~ minecraft:lectern run function blockstates:zzz/gen/get_data_of/lectern
+execute if block ~ ~ ~ minecraft:jungle_trapdoor run function blockstates:zzz/gen/get_data_of/jungle_trapdoor
+execute if block ~ ~ ~ minecraft:jungle_wall_hanging_sign run function blockstates:zzz/gen/get_data_of/jungle_wall_hanging_sign

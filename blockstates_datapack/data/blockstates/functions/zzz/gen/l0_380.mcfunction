@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:red_banner run function blockstates:zzz/gen/get_data_of/red_banner
-execute if block ~ ~ ~ minecraft:red_bed run function blockstates:zzz/gen/get_data_of/red_bed
+execute if block ~ ~ ~ minecraft:purple_concrete run data merge storage blockstates:io {data:{id:"minecraft:purple_concrete"}}
+execute if block ~ ~ ~ minecraft:purple_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:purple_concrete_powder"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:infested_deepslate run function blockstates:zzz/gen/get_data_of/infested_deepslate
-execute if block ~ ~ ~ minecraft:infested_mossy_stone_bricks run data merge storage blockstates:io {data:{id:"minecraft:infested_mossy_stone_bricks"}}
+execute if block ~ ~ ~ minecraft:heavy_core run function blockstates:zzz/gen/get_data_of/heavy_core
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate run function blockstates:zzz/gen/get_data_of/heavy_weighted_pressure_plate

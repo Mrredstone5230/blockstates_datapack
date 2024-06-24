@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:reinforced_deepslate run data merge storage blockstates:io {data:{id:"minecraft:reinforced_deepslate"}}
-execute if block ~ ~ ~ minecraft:repeater run function blockstates:zzz/gen/get_data_of/repeater
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab run function blockstates:zzz/gen/get_data_of/red_nether_brick_slab
+execute if block ~ ~ ~ minecraft:red_nether_brick_stairs run function blockstates:zzz/gen/get_data_of/red_nether_brick_stairs

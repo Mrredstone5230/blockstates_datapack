@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:white_candle_cake run function blockstates:zzz/gen/get_data_of/white_candle_cake
-execute if block ~ ~ ~ minecraft:white_carpet run data merge storage blockstates:io {data:{id:"minecraft:white_carpet"}}
+execute if block ~ ~ ~ minecraft:warped_wall_hanging_sign run function blockstates:zzz/gen/get_data_of/warped_wall_hanging_sign
+execute if block ~ ~ ~ minecraft:warped_wall_sign run function blockstates:zzz/gen/get_data_of/warped_wall_sign

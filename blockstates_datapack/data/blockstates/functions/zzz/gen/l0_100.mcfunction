@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:cobbled_deepslate_slab run function blockstates:zzz/gen/get_data_of/cobbled_deepslate_slab
-execute if block ~ ~ ~ minecraft:cobbled_deepslate_stairs run function blockstates:zzz/gen/get_data_of/cobbled_deepslate_stairs
+execute if block ~ ~ ~ minecraft:coal_ore run data merge storage blockstates:io {data:{id:"minecraft:coal_ore"}}
+execute if block ~ ~ ~ minecraft:coarse_dirt run data merge storage blockstates:io {data:{id:"minecraft:coarse_dirt"}}

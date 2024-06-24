@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:shroomlight run data merge storage blockstates:io {data:{id:"minecraft:shroomlight"}}
-execute if block ~ ~ ~ minecraft:shulker_box run function blockstates:zzz/gen/get_data_of/shulker_box
+execute if block ~ ~ ~ minecraft:redstone_wall_torch run function blockstates:zzz/gen/get_data_of/redstone_wall_torch
+execute if block ~ ~ ~ minecraft:redstone_wire run function blockstates:zzz/gen/get_data_of/redstone_wire

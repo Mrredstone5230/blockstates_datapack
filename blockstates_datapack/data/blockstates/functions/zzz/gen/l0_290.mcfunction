@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:nether_bricks run data merge storage blockstates:io {data:{id:"minecraft:nether_bricks"}}
-execute if block ~ ~ ~ minecraft:nether_gold_ore run data merge storage blockstates:io {data:{id:"minecraft:nether_gold_ore"}}
+execute if block ~ ~ ~ minecraft:moving_piston run function blockstates:zzz/gen/get_data_of/moving_piston
+execute if block ~ ~ ~ minecraft:mud run data merge storage blockstates:io {data:{id:"minecraft:mud"}}

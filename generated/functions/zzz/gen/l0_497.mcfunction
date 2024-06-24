@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:yellow_concrete run data merge storage blockstates:io {data:{id:"minecraft:yellow_concrete"}}
-execute if block ~ ~ ~ minecraft:yellow_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:yellow_concrete_powder"}}
+execute if block ~ ~ ~ minecraft:waxed_exposed_cut_copper run data merge storage blockstates:io {data:{id:"minecraft:waxed_exposed_cut_copper"}}
+execute if block ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab run function blockstates:zzz/gen/get_data_of/waxed_exposed_cut_copper_slab

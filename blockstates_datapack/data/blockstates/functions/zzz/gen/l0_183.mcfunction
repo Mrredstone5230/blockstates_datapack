@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:fletching_table run data merge storage blockstates:io {data:{id:"minecraft:fletching_table"}}
-execute if block ~ ~ ~ minecraft:flower_pot run data merge storage blockstates:io {data:{id:"minecraft:flower_pot"}}
+execute if block ~ ~ ~ minecraft:exposed_copper_door run function blockstates:zzz/gen/get_data_of/exposed_copper_door
+execute if block ~ ~ ~ minecraft:exposed_copper_grate run function blockstates:zzz/gen/get_data_of/exposed_copper_grate

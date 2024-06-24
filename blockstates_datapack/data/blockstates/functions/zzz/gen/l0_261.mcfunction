@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:magenta_bed run function blockstates:zzz/gen/get_data_of/magenta_bed
-execute if block ~ ~ ~ minecraft:magenta_candle run function blockstates:zzz/gen/get_data_of/magenta_candle
+execute if block ~ ~ ~ minecraft:lime_carpet run data merge storage blockstates:io {data:{id:"minecraft:lime_carpet"}}
+execute if block ~ ~ ~ minecraft:lime_concrete run data merge storage blockstates:io {data:{id:"minecraft:lime_concrete"}}

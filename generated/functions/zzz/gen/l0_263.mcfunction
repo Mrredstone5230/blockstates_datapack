@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:magenta_concrete run data merge storage blockstates:io {data:{id:"minecraft:magenta_concrete"}}
-execute if block ~ ~ ~ minecraft:magenta_concrete_powder run data merge storage blockstates:io {data:{id:"minecraft:magenta_concrete_powder"}}
+execute if block ~ ~ ~ minecraft:lime_shulker_box run function blockstates:zzz/gen/get_data_of/lime_shulker_box
+execute if block ~ ~ ~ minecraft:lime_stained_glass run data merge storage blockstates:io {data:{id:"minecraft:lime_stained_glass"}}

@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:stripped_dark_oak_wood run function blockstates:zzz/gen/get_data_of/stripped_dark_oak_wood
-execute if block ~ ~ ~ minecraft:stripped_jungle_log run function blockstates:zzz/gen/get_data_of/stripped_jungle_log
+execute if block ~ ~ ~ minecraft:spruce_wall_sign run function blockstates:zzz/gen/get_data_of/spruce_wall_sign
+execute if block ~ ~ ~ minecraft:spruce_wood run function blockstates:zzz/gen/get_data_of/spruce_wood

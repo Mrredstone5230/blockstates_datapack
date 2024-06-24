@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:twisting_vines run function blockstates:zzz/gen/get_data_of/twisting_vines
-execute if block ~ ~ ~ minecraft:twisting_vines_plant run data merge storage blockstates:io {data:{id:"minecraft:twisting_vines_plant"}}
+execute if block ~ ~ ~ minecraft:sugar_cane run function blockstates:zzz/gen/get_data_of/sugar_cane
+execute if block ~ ~ ~ minecraft:sunflower run function blockstates:zzz/gen/get_data_of/sunflower

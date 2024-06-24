@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:spruce_stairs run function blockstates:zzz/gen/get_data_of/spruce_stairs
-execute if block ~ ~ ~ minecraft:spruce_trapdoor run function blockstates:zzz/gen/get_data_of/spruce_trapdoor
+execute if block ~ ~ ~ minecraft:snow_block run data merge storage blockstates:io {data:{id:"minecraft:snow_block"}}
+execute if block ~ ~ ~ minecraft:soul_campfire run function blockstates:zzz/gen/get_data_of/soul_campfire

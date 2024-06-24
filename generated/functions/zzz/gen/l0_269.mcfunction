@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:mangrove_fence run function blockstates:zzz/gen/get_data_of/mangrove_fence
-execute if block ~ ~ ~ minecraft:mangrove_fence_gate run function blockstates:zzz/gen/get_data_of/mangrove_fence_gate
+execute if block ~ ~ ~ minecraft:magenta_carpet run data merge storage blockstates:io {data:{id:"minecraft:magenta_carpet"}}
+execute if block ~ ~ ~ minecraft:magenta_concrete run data merge storage blockstates:io {data:{id:"minecraft:magenta_concrete"}}

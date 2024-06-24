@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:purple_terracotta run data merge storage blockstates:io {data:{id:"minecraft:purple_terracotta"}}
-execute if block ~ ~ ~ minecraft:purple_wall_banner run function blockstates:zzz/gen/get_data_of/purple_wall_banner
+execute if block ~ ~ ~ minecraft:powder_snow_cauldron run function blockstates:zzz/gen/get_data_of/powder_snow_cauldron
+execute if block ~ ~ ~ minecraft:powered_rail run function blockstates:zzz/gen/get_data_of/powered_rail

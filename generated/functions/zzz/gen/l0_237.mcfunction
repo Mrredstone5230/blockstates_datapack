@@ -1,2 +1,2 @@
-execute if block ~ ~ ~ minecraft:light_blue_candle run function blockstates:zzz/gen/get_data_of/light_blue_candle
-execute if block ~ ~ ~ minecraft:light_blue_candle_cake run function blockstates:zzz/gen/get_data_of/light_blue_candle_cake
+execute if block ~ ~ ~ minecraft:ladder run function blockstates:zzz/gen/get_data_of/ladder
+execute if block ~ ~ ~ minecraft:lantern run function blockstates:zzz/gen/get_data_of/lantern
