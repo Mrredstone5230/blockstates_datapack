@@ -3,7 +3,7 @@ Serialize blocks and their block states with this datapack! (This is meant to be
 
 With this, you could make your own in-storage structure format, and make cool stuff with it, idk!
 
-Current MC version of the project: 1.20.2.
+Current MC version of the project: 1.20.6
 
 ## Usage
 You can load a block at the position of the executor with ```function blockstates:store_block```. 
